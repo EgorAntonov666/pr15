@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Pr15" parent="@style/Theme.Leanback" />
+</resources>
